@@ -1,2 +1,4 @@
-# RareEhsan-base-builder
-Building on Base, in the open. Smart contracts, scripts and experiments.
+# base-builder
+Building on Base, in the open. Contracts, scripts and experiments.
+
+// build note 3
